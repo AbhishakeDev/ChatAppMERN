@@ -9,7 +9,11 @@ import { addUser, getUser, removeUser, getUsersInRoom } from './users.js';
 const app = express();
 app.use(cors());
 const server = createServer(app);
-const io = new Server(server);
+const io = new Server(server, {
+    cors: {
+        origin: '*',
+    }
+});
 
 io.on('connection', (socket) => {
     console.log('We have a new Connection');
