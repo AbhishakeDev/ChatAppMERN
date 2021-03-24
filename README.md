@@ -2,6 +2,12 @@
 ## Uses socket.io
 ## ChatApp with different rooms
 
+## Deployed Version Client 
+Open [https://reactchatappmern.netlify.app/](https://reactchatappmern.netlify.app/)
+
+## Deployed Version Server 
+Open [https://chatappmern123.herokuapp.com/](https://chatappmern123.herokuapp.com/)
+
 ## Usage
 
 Install dependencies
