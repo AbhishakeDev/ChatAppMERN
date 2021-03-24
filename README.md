@@ -3,7 +3,7 @@
 ## ChatApp with different rooms
 
 ## Full Deployed Version 
-Open [https://12chat-app.netlify.app//](https://12chat-app.netlify.app//)
+Open [https://12chat-app.netlify.app/](https://12chat-app.netlify.app/)
 
 ## Deployed Version Server Only
 Open [https://chatappmern123.herokuapp.com/](https://chatappmern123.herokuapp.com/)
