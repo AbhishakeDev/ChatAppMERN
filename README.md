@@ -1,5 +1,5 @@
 # This is a React And Node.js Chat App
-## Uses socket.io
+## Uses [socket.io](https://socket.io/)
 ## ChatApp with different rooms
 
 ## Full Deployed Version 
